@@ -1,2 +1,2 @@
-# skylines
-Smart City solution for data visualization
+# Skylines
+Smart City solution for data visualization and data predictions.
