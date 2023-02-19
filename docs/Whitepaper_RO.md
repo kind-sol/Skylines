@@ -14,7 +14,7 @@
 
 ## SKYLINES
 
-> Soluția propusă este un sistem de informare la nivelul orașului care poate ajuta oficialii orașului să identifice tendințe și modele în date (modele de trafic, utilizare a energiei etc.).In timp, poate ajuta la automatizarea serviciilor unui oras, luarea deciziilor și dezvoltarea politicilor. În plus, poate fi utilizat pentru a îmbunătăți transparența și responsabilitatea, deoarece cetățenii pot avea acces controlat la datele sistemului pentru a vedea cum progreseaza orașul in care traiesc în diferite domenii si situatii.
+> Soluția propusă consta intr-un sistem de informare la nivelul orașului care poate ajuta oficialii orașului să identifice tendințe și modele în date (modele de trafic, utilizare a energiei etc.).In timp, poate ajuta la automatizarea serviciilor unui oras, luarea deciziilor și dezvoltarea politicilor. În plus, poate fi utilizat pentru a îmbunătăți transparența și responsabilitatea, deoarece cetățenii pot avea acces controlat la datele sistemului pentru a vedea cum progreseaza orașul in care traiesc în diferite domenii si situatii.
 
 ## SMART CITY
 
@@ -22,11 +22,11 @@
 
 ## IoT
 
-> Internet of Things (IoT) este o rețea de dispozitive fizice, vehicule, clădiri și alte obiecte care sunt integrate cu senzori, software și conectivitate, permitându-le să colecteze și să schimbe date. IoT-ul permite acestor obiecte să fie conectate și controlate la distanță, facând posibilă automatizarea și optimizarea diferitelor sarcini și procese.
+> Internet of Things (IoT) se referă la conexiunea și comunicarea dintre dispozitivele fizice sau obiectele de zi cu zi (cum ar fi autovehicule, senzori etc.) prin intermediul Internetului. Aceste dispozitive sunt dotate cu tehnologie de comunicație și de procesare a informațiilor, ceea ce le permite să comunice între ele și să ofere informații utile utilizatorilor sau altor sisteme. Scopul principal al IoT este de a îmbunătăți eficiența și productivitatea în diferite domenii, cum ar fi industria, sănătatea, transportul și multe altele.
 
 ## Sistem de transport inteligent
 
-> ITS este o rețea de tehnologii și sisteme care folosesc senzori, analize de date și alte tehnologii pentru a monitoriza și gestiona sistemele de transport, incluzând drumuri, autostrăzi, transport public și gestionarea traficului.
+> ITS este o rețea de tehnologii și sisteme care folosesc senzori, analiza de date și alte tehnologii pentru a monitoriza și gestiona sistemele de transport, incluzând drumuri, autostrăzi, transport public și gestionarea traficului.
 
 ## Senzori
 
@@ -34,7 +34,7 @@
 
 ## Hardware-ul de achiziție de date
 
-> Acesta este hardware-ul care este utilizat pentru a conecta senzorii la sistemul de achiziție de date și pentru a colecta datele de la senzori. Hardware-ul de achiziție de date poate include registratoare de date, convertizoare analog-digital și alte tipuri de hardware.
+> Acesta este hardware-ul utilizat pentru a conecta senzorii la sistemul de achiziție de date și pentru a colecta datele de la senzori. Hardware-ul de achiziție de date poate include registratoare de date, convertizoare analog-digital și alte tipuri de hardware.
 
 ## Software-ul de achiziție de date
 
@@ -50,28 +50,28 @@
 
 ## Sisteme de control şi comandă
 
-> Sisteme utilizate pentru a gestiona și opera sisteme complexe, precum uzinele de fabricație, rețelele de energie și rețelele de transport.
+> Sisteme utilizate pentru a gestiona și controla alte sisteme complexe, precum uzinele de fabricație, rețelele de energie și rețelele de transport.
 
 ## Osmium
 
-> Osmium este un instrument versatil de linie de comandă pentru lucrul cu date OpenStreetMap. Include multe funcții utile pentru manipularea datelor OSM și, adesea, depășește uneltele similare.
+> Osmium este un instrument de linie de comandă special conceput pentru a lucra cu date OpenStreetMap. Include multe funcții utile pentru manipularea datelor OSM și, adesea, ofera mai multe beneficii fata de alte instrumente similiare.
 
 ## Rețele neurale
 
-> Retele neurale, care sunt un tip de algoritm de învățare automată, pot fi utilizate pentru a ajuta la detectarea unui spectru larg de incidente în oraș.
+> Retele neurale sunt caracterizate ca fiind un  tip de algoritm de învățare automată si pot fi utilizate pentru a ajuta la detectarea unui spectru larg de incidente.
 
 # **De ce orașe inteligente?**
 
-Orasele inteligente utilizeaza tehnologie și date pentru a îmbunătăți calitatea vieții cetățenilor și pentru a face zonele urbane mai eficiente și durabile. Există multe avantaje potențiale ale creării unui oraș inteligent, inclusiv:
+Orasele inteligente utilizeaza tehnologia și date pentru a îmbunătăți calitatea vieții cetățenilor și pentru a face zonele urbane mai eficiente și durabile. Există multe avantaje potențiale ale creării unui oraș inteligent, inclusiv:
 
 - **Îmbunătățirea serviciilor publice**: Orasele inteligente pot folosi datele și tehnologia pentru a îmbunătăți livrarea serviciilor publice, precum sănătatea, educația și transportul public.
-- **Dezvoltarea economica**: Orașele inteligente pot imbunatatii sistemul de afaceri și investiții, pot atrage angajați talentați, oferind o infrastructură modernă și eficientă.
+- **Dezvoltarea economica**: Orașele inteligente pot imbunatatii sistemul de afaceri și investiții, pot atrage angajați bine pregatiti in domeniul lor, oferind o infrastructură modernă și eficientă.
 - **Calitatea vietii**: Orasele inteligente pot folosi tehnologia și datele pentru a îmbunătăți siguranța, sănătatea și binele cetățenilor.
 - **Sustenabilitatea**: Orasele inteligente pot folosi tehnologia pentru a reduce impactul asupra mediului și a deveni mai durabile.
 
 # **CONTEXTUL ACTUAL**
 
-Noile probleme globale necesită cooperare și inovare, dar sistemele nu au inovat. Există o dificultate reală de accesare a datelor publice de către cetățeni și de către lucratorii publici și există o lipsă de date pentru a fi analizate și utilizate pentru a îmbunătăți anumite servicii urbane.
+Noile probleme globale necesită cooperare și inovare, dar sistemele nu au inovat. Există o dificultate reală de accesare a datelor publice de către cetățeni și de către lucratorii publici și există o lipsă de date, date care pot fi analizate și utilizate in vederea îmbunătățiri anumitor servicii urbane.
 
 Se estimează că populația urbană globală va continua să crească semnificativ între 2020 și 2050. Potrivit Națiunilor Unite, se așteaptă ca populația urbană să crească cu aproximativ 2,5 miliarde de oameni între 2020 și 2050, cu aproape 90% din creștere având loc în Asia și Africa. Până în 2050, se estimează că aproximativ 68% din populația globală va locui în zone urbane, față de aproximativ 55% în 2020.
 
@@ -94,12 +94,12 @@ _Cum putem îmbunătăți acesta situatie?_
 Este de obicei imposibil să se oprească complet urbanizarea, deoarece este un proces natural condus de o serie de factori, incluzând creșterea populației, dezvoltarea economică și dorința de a avea o calitate mai bună a vieții. Cu toate acestea, există modalități de a gestiona urbanizarea și de a aborda impacturile sale negative:
 
 - **Infrastructura sustenabila**: Orasele pot investi în infrastructură durabilă, precum clădiri eficiente energetic și surse de energie regenerabilă, pentru a reduce impactul lor asupra mediului.
-- **Transport public**: Orasele pot investi în sisteme de transport public, precum autobuze, trenuri și programe de împrumut de biciclete, pentru a reduce congestia traficului și a îmbunătăți mobilitatea.
+- **Transport public**: Orasele pot investi în sisteme de transport public, precum autobuze, trenuri și programe de bike sharing, pentru a reduce congestia traficului și a îmbunătăți mobilitatea.
 - **Dezvoltarea inteligenta**: Orasele pot adopta politici de dezvoltare inteligentă care să se concentreze pe dezvoltarea compactă, ușor de parcurs și orientată către transportul public, care pot reduce impacturile negative ale urbanizării, cum ar fi aglomerația rutieră și extinderea fără sens.
 
 # **VIZIUNEA NOASTRA**
 
-Ne dorim ca majoritatea orașelor să aibă o creștere economică mai bună, o mobilitate urbană mai eficientă, o calitate a vieții mai bună pentru cetățeni, o dezvoltare durabilă, toate prin utilizarea unei tehnologii robuste. Soluția noastră va urmări să îmbunătățească operațiunile pentru sistemele de control și comandă, cu scopul tranziției de la C1 la C2 sau mai mult.
+Ne dorim ca majoritatea orașelor să aibă o creștere economică mai bună, o mobilitate urbană mai eficientă, o calitate a vieții mai bună pentru cetățeni si o dezvoltare durabilă, toate prin utilizarea unei tehnologii robuste. Soluția noastră va urmări să îmbunătățească operațiunile pentru sistemele de control și comandă, cu scopul tranziției de la C1 la C2 sau mai mult.
 
 Sistemele de control sunt utilizate pentru a monitoriza şi controla funcţionarea unui sistem în timp real. Acestea utilizează senzori pentru a colecta date despre funcţionarea sistemului şi utilizează aceste date pentru a ajusta comportamentul sistemului în scopul obţinerii unui rezultat dorit.
 
@@ -107,7 +107,7 @@ Sistemele de control sunt utilizate pentru a monitoriza şi controla funcţionar
 
 **C1** Sistemele de nivel C1 sunt cele mai simple sisteme de control şi comandă. Acestea sunt de obicei sisteme manuale care necesită un operator uman pentru a controla şi monitoriza manual sistemul.
 
-**C2** Sistemele C2 sunt mai avansate decât sistemele C1 și oferă un anumit nivel de automatizare și / sau asistență computerizată operatorului. Pot include caracteristici precum colectarea automată a datelor și analiza, sau capacitatea de a executa sarcini programate în prealabil.
+**C2** Sistemele C2 sunt mai avansate decât sistemele C1 și oferă un anumit nivel de automatizare și/sau asistență computerizată operatorului. Pot include caracteristici precum colectarea automată a datelor și analiză, sau capacitatea de a executa sarcini programate în prealabil.
 
 **C3** Sistemele C3 sunt mai complexe și mai autonome decât sistemele C2. Ele sunt capabile să ia decizii singure și pot include caracteristici precum algoritmi de învățare automată, care le permit să se adapteze la condiții în schimbare.
 
@@ -115,10 +115,10 @@ Sistemele de control sunt utilizate pentru a monitoriza şi controla funcţionar
 
 Aceste categorii sunt utilizate în general pentru a descrie nivelul de complexitate și autonomie al sistemelor de control și comandă, cu sistemele **C1** fiind cele mai simple și sistemele **C4** fiind cele mai avansate.
 
-Specific, un sistem de control poate fi utilizat pentru a regla temperatura unui proces de fabricație sau pentru a ajusta fluxul de electricitate într-o rețea de energie. Există multe scenarii care pot fi automate într-un oraș inteligent, deoarece utilizarea tehnologiei și a datelor poate ajuta la optimizarea unei largi game de operațiuni și servicii ale orașului. Iată câteva scenarii care pot fi automate într-un oraș inteligent:
+Specific, un sistem de control poate fi utilizat pentru a regla temperatura unui proces de fabricație sau pentru a ajusta fluxul de electricitate într-o rețea de energie. Există multe scenarii care pot fi automatizate într-un oraș inteligent, deoarece utilizarea tehnologiei și a datelor poate ajuta la optimizarea unei largi game de operațiuni și servicii ale orașului. Iată câteva scenarii care pot fi automatizate într-un oraș inteligent:
 
 - **Gestionarea traficului**: Orasele inteligente pot utiliza senzori și analiza de date pentru a monitoriza și gestiona fluxul de trafic, ajustând semafoarele de trafic și alte elemente ale sistemului de transport în timp real pentru a optimiza fluxul de trafic și a reduce congestia.
-Transportul public: Orasele inteligente pot utiliza senzori și analiza de date pentru a optimiza traseele și programul sistemelor de transport public, cum ar fi autobuzele și trenurile, pentru a îmbunătăți eficiența și a reduce timpii de așteptare.
+**Transportul public**: Orasele inteligente pot utiliza senzori și analiza de date pentru a optimiza traseele și programul sistemelor de transport public, cum ar fi autobuzele și trenurile, pentru a îmbunătăți eficiența și a reduce timpii de așteptare.
 - **Gestionarea energiei**: Orasele inteligente pot utiliza senzori și analize de date pentru a monitoriza și optimiza utilizarea energiei, precum prin controlarea iluminatului și a încălzirii în clădiri publice sau prin ajustarea producției surselor de energie regenerabile, precum panourile solare sau turbinele eoliene.
 - **Gestionarea deseurilor**: Orasele inteligente pot utiliza senzori si analiza datelor pentru a optimiza colectarea si procesarea deseurilor, cum ar fi prin rutarea mai eficienta a camioanelor de deseuri sau prin automatizarea sortarii si reciclarii materialelor.
 - **Siguranța publică**: Orasele inteligente pot utiliza senzori si analize de date pentru a monitoriza si raspunde incidentelor legate de siguranta publica, precum incendii, accidente sau infractiuni, si pentru a optimiza deplasarea resurselor de raspuns in caz de urgenta.
@@ -135,9 +135,9 @@ De exemplu, dacă are loc un accident sau alt incident pe o anumită porțiune d
 
 ##### Arhitectura unui ITS include de obicei următoarele componente:
 
-- **Senzori**: Acestea sunt dispozitive care sunt instalate în rețeaua de transport pentru a colecta date despre condițiile de trafic, cum ar fi volumul traficului, viteza și tipul de vehicul. Senzorii pot include camere de trafic, detectoare de buclă și alte tipuri de senzori.
-- **Colectarea și gestionarea datelor**: Această componentă este responsabilă de colectarea și stocarea datelor generate de senzori într-o bază de date centrală sau un depozit de date.
-- **Analiza datelor**: Această componentă folosește algoritmi și alte tehnici pentru a analiza datele colectate de senzori și pentru a genera perspective și recomandări pentru îmbunătățirea performanței sistemului de transport.
+- **Senzori**: Acestea sunt dispozitive care sunt instalate în rețeaua de transport pentru a colecta date despre condițiile de trafic, cum ar fi volumul traficului, viteza și tipul de vehicul. Senzorii pot include camere de trafic și alte tipuri de senzori.
+- **Colectarea și gestionarea datelor**: Această componentă este responsabilă de colectarea și stocarea datelor generate de senzori într-o bază de date centrală sau un depozit de date(Data Warehouse).
+- **Analiza datelor**: Această componentă folosește algoritmi și alte tehnici pentru a analiza datele colectate de senzori și pentru a genera perspective și sugestii pentru îmbunătățirea performanței sistemului de transport.
 - **Comunicare și control**: Această componentă este responsabilă pentru transmiterea datelor și recomandărilor din componenta de analiză a datelor către părțile corespunzătoare, cum ar fi centrele de management al traficului sau operatorii de transport public. De asemenea, poate fi folosit pentru a controla semnalele de trafic și alte elemente ale sistemului de transport în timp real.
 - **Interfața cu utilizatorul**: Această componentă oferă o interfață ușor de utilizat pentru utilizatori, cum ar fi managerii de trafic, operatorii de transport public și șoferii, pentru a accesa și interacționa cu sistemul.
 
@@ -151,19 +151,19 @@ Cu toate acestea, caracteristicile și capacitățile specifice ale sistemelor d
 
 ## **COLECTAREA DATELOR**
 
-### Arhitectura pentru colectarea datelor și nivelul de gestionare al unui sistem:
+### Arhitectura pentru colectarea datelor și gestionare unui sistem:
 
-- **Surse de date**: Acestea sunt diversele surse de date care sunt colectate de sistem, cum ar fi senzori, baze de date sau API-uri.
+- **Surse de date**: Acestea sunt diverse surse de date care sunt colectate de sistem, cum ar fi senzori, baze de date sau API-uri.
 - **Conectori de date**: Acestea sunt componentele care sunt responsabile pentru conectarea la sursele de date și extragerea datelor.Pot utiliza diverse protocoale și tehnologii, cum ar fi SQL, REST sau MQTT, pentru a se conecta la sursele de date.
 - **Stocarea datelor**: Această componentă este responsabilă pentru stocarea datelor colectate de sistem. Poate folosi o varietate de tehnologii de stocare, cum ar fi o bază de date relațională, o bază de date NoSQL sau un data lake(depozit centralizat conceput pentru a stoca, procesa și securiza cantități mari de date structurate, semistructurate și nestructurate).
 - **Transformarea datelor**: Această componentă este responsabilă de curățarea, formatarea și transformarea datelor colectate de sistem pentru a le face mai potrivite pentru analiză și raportare.
-- **Accesul la date**: Această componentă este responsabilă pentru asigurarea accesului la datele stocate de sistem. Poate include API-uri, structuri/modele de acces specifice mediilor de depozit de date, sau alte mecanisme pentru accesarea datelor.
+- **Accesul la date**: Această componentă este responsabilă pentru asigurarea accesului la datele stocate de sistem. Poate include API-uri, structuri/modele de acces specifice mediilor care stocheaza date, sau alte mecanisme pentru accesarea datelor.
 
 În general, această arhitectură este concepută pentru a permite colectarea, stocarea și accesul eficient la date din diverse surse într-o locație centralizată. Acesta permite sistemului să proceseze și să analizeze datele pentru a extrage informații și a lua decizii informate.
 
 ### **Există mai mulți pași implicați în colectarea datelor senzorilor**:
 
-**Alegerea senzorilor corespunzători**: Primul pas în colectarea datelor senzorilor este alegerea senzorilor care sunt adecvați pentru aplicație. Senzorii vin într-o gamă largă de tipuri și dimensiuni, iar fiecare tip de senzor este cel mai potrivit pentru anumite tipuri de colectare de date. De exemplu, un senzor de temperatură ar fi o alegere bună pentru colectarea datelor de temperatură, în timp ce un senzor de presiune ar fi o alegere bună pentru colectarea datelor de presiune.
+**Alegerea senzorilor corespunzători**: Primul pas în colectarea datelor senzorilor este alegerea senzorilor care sunt adecvați pentru aplicație. Senzorii se regasesc într-o gamă largă de tipuri și dimensiuni, iar fiecare tip de senzor este potrivit pentru anumite tipuri de colectare de date. De exemplu, un senzor de temperatură ar fi o alegere bună pentru colectarea datelor de temperatură, în timp ce un senzor de presiune ar fi o alegere bună pentru colectarea datelor de presiune.
 
 **Instalarea senzorilor**: Odată ce au fost aleși senzorii corespunzători, aceștia trebuie instalați în locația în care vor fi utilizați. Aceasta poate implica montarea fizică a senzorilor pe o structură sau dispozitiv sau încorporarea lor într-un sistem sau proces.
 
@@ -179,11 +179,11 @@ Arhitectura unui sistem de achiziție de date se referă la designul și structu
 
 #### **Una dintre cele mai comune arhitecturi ale sistemului de achiziție de date include următoarele componente**:
 
-**Senzori**: Acestea sunt dispozitivele care sunt folosite pentru a colecta date din mediul sau sistemul monitorizat. Senzorii pot fi conectați direct la sistemul de achiziție de date sau pot fi conectați la un dispozitiv de la distanță care transmite datele fără fir.
+**Senzori**: Sunt dispozitivele care sunt folosite pentru a colecta date din mediul sau sistemul monitorizat. Senzorii pot fi conectați direct la sistemul de achiziție de date sau pot fi conectați la un dispozitiv de la distanță care transmite datele fără fir.
 
 **Hardware de achiziție de date**: Acesta este hardware-ul care este folosit pentru a conecta senzorii la sistemul de achiziție de date și pentru a colecta datele de la senzori. Hardware-ul de achiziție de date poate include înregistratoare de date, convertoare analog-digitale și alte tipuri de hardware.
 
-**Software de achizitie de date**: Acesta este software-ul care este utilizat pentru a configura sistemul de achiziție de date, pentru a colecta datele de la senzori și pentru a stoca datele pentru o analiză ulterioară. Software-ul de achiziție de date poate include biblioteci de software, drivere și alte instrumente.
+**Software de achizitie de date**: Acesta este software-ul care este utilizat in configurarea sistemului de achiziție de date, pentru a colecta datele de la senzori și pentru a stoca datele in vederea unei analize ulterioare. Software-ul de achiziție de date poate include biblioteci de software, drivere și alte instrumente.
 
 **Infrastructura de comunicații**: Acesta este hardware-ul și software-ul care este folosit pentru a transmite datele de la senzori către sistemul de achiziție de date. Infrastructura de comunicații poate include rețele cu fir sau fără fir, protocoale de comunicație și alte componente.
 
@@ -191,7 +191,7 @@ Arhitectura unui sistem de achiziție de date se referă la designul și structu
 
 În general, arhitectura unui sistem de achiziție de date este concepută pentru a permite colectarea, procesarea și stocarea eficientă și fiabilă a datelor dintr-o varietate de surse.
 
-**Skylines** este soluția noastră pentru crearea unei interfete de vizualizare interactiva, bazate pe date, folosind diverse surse de date care sunt colectate de sistem. Este deosebit de potrivit pentru redarea seturi de date mari, cum ar fi datele geospațiale.
+**Skylines** este soluția noastră pentru crearea unei interfete de vizualizare interactivă, bazate pe date, folosind diverse surse de date care sunt colectate de sistem. Este deosebit de potrivită pentru crearea si vizualizarea seturilor de date mari, cum ar fi datele geospațiale.
 
 ### **MANIPULAREA DATELOR**
 
@@ -201,21 +201,21 @@ Arhitectura unui sistem de achiziție de date se referă la designul și structu
 
 **Colectarea datelor brute de la senzori**: primul pas în colectarea datelor despre senzori este colectarea datelor brute de la senzori. Aceasta poate implica utilizarea hardware sau software de achiziție de date pentru a colecta datele sau utilizarea protocoalelor de comunicație pentru a transmite datele fără fir.
 
-**Accesarea datelor printr-un API**: implică de obicei efectuarea unei solicitări către API folosind o anumită adresă URL sau un punct final, împreună cu orice autentificare sau acreditări de autorizare necesare. API-ul va răspunde apoi cu datele solicitate, care pot fi în diferite formate, cum ar fi JSON, XML sau CSV.
+**Accesarea datelor printr-un API**: implică de obicei efectuarea unei solicitări către API folosind o anumită adresă URL sau un endpoint final, împreună cu orice autentificare sau acreditări de autorizare necesare. API-ul va răspunde apoi cu datele solicitate, care pot fi în diferite formate, cum ar fi JSON, XML sau CSV.
 
 #### **Procesarea datelor**
 
-**Pre-procesarea datele brute**: în funcție de nevoile specifice ale aplicației, este posibil ca datele brute să fie pre-procesate pentru a le curăța sau a le transforma. Acest lucru poate implica eliminarea erorilor sau inconsecvențelor din date, agregarea datelor la un anumit nivel de detaliu sau aplicarea calculelor sau a altor transformări datelor. **Skylines** folosește propriul mecanism personalizat de analiză care curăță și clasifică setul datele.
+**Pre-procesarea datele brute**: în funcție de nevoile specifice ale aplicației, este posibil ca datele brute să fie pre-procesate pentru a le curăța sau a le transforma. Acest lucru poate implica eliminarea erorilor sau inconsecvențelor din date, agregarea datelor la un anumit nivel de detaliu sau aplicarea calculelor sau a altor transformări asupra datelor. **Skylines** folosește propriul mecanism personalizat de analiză care curăță și clasifică setul de date.
 
 **Conversia datelor într-un format adecvat:** Este posibil ca datele să fie convertite într-un anumit format pentru a fi stocate sau transmise. De exemplu, este posibil ca datele să fie convertite într-un format binar, într-un fișier CSV sau într-un fișier JSON.
 
 **Stocarea datele:** Datele pot fi apoi stocate într-o locație adecvată, cum ar fi o bază de date, un sistem de fișiere sau un serviciu de stocare în cloud.
 
-**Analiza datele**: Odată ce datele au fost colectate și stocate, acestea pot fi analizate pentru a extrage informații și a lua decizii pe baza datelor. Aceast lucru implica utilizarea instrumentelor software pentru a vizualiza datele sau aplicarea tehnicilor de analiză statistică datelor.
+**Analiza datele**: Odată ce datele au fost colectate și stocate, acestea pot fi analizate pentru a extrage informații și a lua decizii pe baza datelor. Aceast lucru implica utilizarea instrumentelor software pentru a vizualiza datele sau aplicarea tehnicilor de analiză statistică asupra datelor.
 
 ### **Prezentare generală**
 
-#### Iată o diagramă de flux care ilustrează procesul pentru curățarea, formatarea și transformarea datelor OpenStreetMap (OSM) pentru a fi utilizate în Skylines:
+#### Flux care ilustrează procesul pentru curățarea, formatarea și transformarea datelor OpenStreetMap (OSM) pentru a fi utilizate în Skylines:
 
 - **Extragerea datelorm OSM**: primul pas în acest proces este extragerea datelor OSM relevante din baza de date OSM sau API. Acest lucru poate implica utilizarea filtrelor sau a interogărilor pentru a selecta anumite elemente de date, cum ar fi drumuri, clădiri sau puncte de interes.
 
@@ -224,11 +224,11 @@ Arhitectura unui sistem de achiziție de date se referă la designul și structu
 - **Transformarea datelor**: Următorul pas este transformarea datelor într-un format potrivit pentru utilizare în Skylines. Aceasta implica conversia datelor din formatul original (cum ar fi XML sau JSON) într-un format pe care Skylines îl poate înțelege, cum ar fi GeoJSON sau un format JSON personalizat.
 - **Încărcarea datelor în Skylines**: pasul final este să încărcam datele transformate în Skylines folosind funcția de încărcare a datelor corespunzătoare, cum ar fi GeoJsonLayer sau ArcLayer. Datele pot fi apoi vizualizate și analizate în Skylines.
 
-**Skylines** utilizează layere personalizate care sunt capabile să redea date GeoJSON, trecând datele OSM prin Osmium și exportarea acestora în format GeoJSON. Acest lucru se poate face folosind unul dintre layerele geospațiale încorporate,  furnizate de sistem.
+**Skylines** utilizează layere personalizate care sunt capabile să redea date GeoJSON, trecând datele OSM prin Osmium și permitand exportarea acestora în format GeoJSON. Acest lucru se poate face folosind unul dintre layerele geospațiale încorporate, furnizate de sistem.
 
 Aplicația permite adăugarea mai multor layere la o hartă și fiecare layer reprezinta un fisier GeoJSON separat.Acestea sunt utilizate pentru codificarea unei varietăți de structuri de date geografice, inclusiv puncte, linii și poligoane.
 
-Structura unui fișier reprezinta o colecție de perechi cheie-valoare, cheia fiind tipul de caracteristică și valoarea fiind proprietățile și geometria caracteristicii.
+Structura unui fișier reprezinta o colecție de perechi cheie-valoare, cheia fiind tipul de caracteristică și valoarea reprezentand proprietățile și geometria caracteristicii.
 
 #### **Există mai multe tipuri de caracteristici GeoJSON**:
 
@@ -271,7 +271,7 @@ Structura unui fișier reprezinta o colecție de perechi cheie-valoare, cheia fi
 
 Una dintre caracteristicile de bază ale **Skylines** este capacitatea de a genera **layere personalizate**, care pot fi folosite pentru a afișa date în diferite formate și stiluri.
 
-Pentru a personaliza un layer Skylines, puteți transmite diverse opțiuni sistemului de gestionare al layerelor. Unele opțiuni comune includ:
+Pentru a personaliza un layer Skylines, putem folosii sistemul de gestionare al layerelor. Unele opțiuni comune includ:
 
 **date**: datele care urmează să fie afișate în layer, de obicei sub forma unei matrice de obiecte.
 
@@ -281,9 +281,9 @@ Pentru a personaliza un layer Skylines, puteți transmite diverse opțiuni siste
 
 **getRadius**: O funcție care returnează raza fiecărui punct de date, de obicei sub forma unui număr.
 
-După ce ați creat un layer geospațial, puteți transmite datele GeoJSON la layer ca sursă de date. Layerul va procesa apoi datele și le va folosi pentru a crea vizualizarea.
+După ce ați creat un layer geospațial, puteți transmite datele GeoJSON la layer ca sursă de date. Layerul va procesa apoi datele și le va folosi pentru a crea componenta de vizualizare.
 
-Pentru a afișa vizualizarea, puteți adăuga layerul la o componentă, împreună cu orice alte layere pe care doriți să le includeți în vizualizare. Componenta **Skylines** va reda apoi vizualizarea în pagină, folosind un API pentru redarea graficelor interactive 3D și 2D în browserele web, pentru a desena datele în mod eficient și interactiv.
+Pentru a vizualiza datele, puteți adăuga layerul la o componentă, împreună cu orice alte layere pe care doriți să le includeți în vizualizare. Componenta **Skylines** va reda apoi layerele în pagină, folosind un API pentru redarea graficelor interactive 3D și 2D în browserele web, pentru a desena datele în mod eficient și interactiv.
 
 ### **Vizualizarea datelor**
 
@@ -313,7 +313,7 @@ Fluxul de lucru pentru vizualizarea datelor folosind Skylines implică următori
 #### **Tipuri de layere acceptate:**
 Skylines utilizează diferite categorii de layere pentru a organiza și afișa datele. Categoriile de layere includ:
 
-**Layerele de bază:** Layerele de bază sunt un set de layere fundamentale care servesc drept bază pentru crearea diferitelor tipuri de vizualizări de date. Aceste layere sunt concepute pentru a fi flexibile și generice în scop și pot fi utilizate pentru a reprezenta o gamă largă de date, făcându-le potrivite pentru construirea unei varietăți de vizualizări. Sunt considerate elementele de bază pentru toate vizualizările de date și oferă o gamă largă de funcționalități, ceea ce face procesul de vizualizare interactiv și explicit.
+**Layerele de bază:** Layerele de bază sunt un set de layere fundamentale care servesc drept bază pentru crearea diferitelor tipuri de vizualizări de date. Aceste layere sunt concepute pentru a fi flexibile și generice în scop și pot fi utilizate pentru a reprezenta o gamă largă de date, făcându-le potrivite pentru construirea mai multor moduri de vizualizare. Sunt considerate elementele de bază in procesul de vizualizare al datelor și oferă o gamă largă de funcționalități, ceea ce face procesul de vizualizare interactiv și explicit.
 
 **Exemple de layere de baza**
 *ArcLayer,
@@ -339,7 +339,7 @@ Afisarea datelor geospatiale pentru un oras
 
 </center>
 
-**Layere de agregare:** Layerele de agregare sunt concepute pentru a prelua date brute și a le transforma în reprezentări alternative, cum ar fi grile, hexagoane, contururi și hărți termice. Aceste layere sunt folosite pentru a grupa și rezuma datele într-un mod condensat și organizat, permițând utilizatorilor să vizualizeze datele într-un format diferit, făcându-le mai interpretabile și mai ușor de înțeles. Ele oferă diferite opțiuni de vizualizare pentru date și le fac mai semnificative, oferind mai multe moduri de a le analiza.
+**Layere de agregare:** Layerele de agregare sunt concepute pentru a prelua date brute și a le transforma în reprezentări alternative, cum ar fi grile, hexagoane, contururi și hărți termice. Aceste layere sunt folosite pentru a grupa și rezuma datele într-un mod condensat și organizat, permițând utilizatorilor să vizualizeze datele într-un format diferit, făcându-le mai interpretabile și mai ușor de înțeles. 
 
 **Exemple de layere de agregare**
 *ContourLayer,
@@ -353,16 +353,16 @@ HeatmapLayer*
 <center>
 
 ![heatMap](img/heatmap.PNG)
-Arată densitatea punctelor de date într-o zonă dată
+Densitatea punctelor de date într-o zonă dată
 
 </center>
 
-**Geo Layers:** Geo Layers sunt o colecție de layere care sunt concepute special pentru vizualizarea geospațială. Aceste layere acceptă o gamă largă de formate de date geospațiale, inclusiv plăci de hărți și sisteme populare de indexare geospațială și sunt optimizate pentru utilizare în aplicații GIS.
+**Geo Layers:** Geo Layers sunt o colecție de layere care sunt concepute special pentru vizualizarea geospațială. Aceste layere acceptă o gamă largă de formate de date geospațiale și sunt optimizate pentru utilizare în aplicații GIS.
   Acestea oferă capacitatea de a afișa date pe o hartă, oferind utilizatorului contextul geografic datelor și permițându-le să le vizualizeze în raport cu anumite locații. Aceste layere sunt utile pentru a afișa date geospațiale pe hărți și pentru a oferi funcționalități suplimentare, cum ar fi navigarea pe hartă și interacțiunea
 
  **Exemple de Geo Layers**
  *GreatCircleLayer,
-GeohashLayer,
+GeohashLayer,d
 TileLayer,
 TripsLayer,
 TerrainLayer,
@@ -379,9 +379,9 @@ Trasee animate care reprezintă călătorii cu vehicule.
 
 
 ### **Analiza datele folosind rețele neuronale**
-Rețelele neuronale sunt un tip de algoritm de învățare automată care sunt modelate după structura și funcția creierului uman. Ele constau din straturi de „neuroni” interconectați care procesează și transmit informații. Rețelele neuronale sunt deosebit de potrivite pentru sarcini care implică recunoașterea tiparelor sau luarea deciziilor pe baza datelor de intrare.
+Rețelele neuronale sunt un tip de algoritm de învățare automată care sunt modelate după structura și funcția creierului uman. Ele constau in straturi de „neuroni” interconectați care procesează și transmit informații. Rețelele neuronale sunt deosebit de potrivite pentru sarcini care implică recunoașterea tiparelor sau luarea deciziilor pe baza datelor de intrare.
 
-Rețelele neuronale pot fi implementate într-o varietate de limbaje de programare, inclusiv Python, Java, C++ și altele. Unele biblioteci și cadre populare pentru implementarea rețelelor neuronale în Python includ **TensorFlow, Keras** și **PyTorch**. Aceste biblioteci oferă arhitecturi de rețele neuronale pre-construite și o varietate de instrumente pentru instruire, testare și implementare a rețelelor neuronale.
+Rețelele neuronale pot fi implementate într-o varietate de limbaje de programare, inclusiv Python, Java, C++ și altele. Unele biblioteci și instrumente populare pentru implementarea rețelelor neuronale în Python includ **TensorFlow, Keras** și **PyTorch**. Aceste biblioteci oferă arhitecturi de rețele neuronale pre-construite și o varietate de instrumente pentru instruire, testare și implementare a rețelelor neuronale.
 
 Rețelele neuronale pot ajuta un oraș să devină un oraș inteligent, oferind informații despre diferite aspecte ale orașului, cum ar fi traficul, consumul de energie, calitatea aerului și criminalitatea. Analizând datele colectate de la senzori, camere și alte surse, rețelele neuronale pot identifica modele și tendințe care pot fi utilizate pentru a lua decizii bazate pe date pentru a îmbunătăți infrastructura și serviciile orașului.
 
@@ -396,6 +396,8 @@ Rețelele neuronale pot fi, de asemenea, utilizate pentru a prezice vremea și c
 Structura unei retele neuronale
 
 </center>
+
+_Utilitatea retelelor neuronale_
 
 **Accidente de trafic**: rețelele neuronale ar putea fi instruite pe datele de la camerele și senzorii de trafic pentru a identifica modele care indică un accident, cum ar fi schimbări bruște de viteză sau opriri bruște.
 
@@ -419,8 +421,8 @@ Structura unei retele neuronale
 - Importul bibliotecilor necesare și încărcarea datelor
 - Preprocesarea datelor, cum ar fi normalizarea sau scalarea caracteristicilor de intrare
 - Definirea arhitecturii rețelei neuronale, folosind de obicei o bibliotecă precum **TensorFlow** sau **Keras**
-- Antrenarea rețelei neuronale pe datele preprocesate
-- Evaluarea performanței rețelei neuronale antrenate pe un set de testare
+- Antrenarea rețelei neuronale pe datele pre-procesate
+- Evaluarea performanței rețelei neuronale antrenate pe un set de date de testare
 - Utilizarea rețelei neuronale antrenate pentru a face predicții asupra datelor noi.
 
 Iată un exemplu de cod care utilizează Python și rețelele neuronale pentru a aborda congestionarea traficului sau a identifica un accident:
@@ -514,9 +516,9 @@ Acest cod folosește un set de date care conține informații despre condițiile
 În general, rețelele neuronale sunt instrumente puternice care pot ajuta orașele să devină mai eficiente, durabile și mai locuibile, oferind perspective asupra diferitelor aspecte ale orașului, cum ar fi traficul, consumul de energie, calitatea aerului și criminalitatea, care pot fi folosite in procesul de prelucrearea a datelor pentru a îmbunătăți infrastructura și serviciile orașului.
 
 ### Securitatea și integritatea datelor
-Pentru a asigura securitatea și integritatea datelor, respectăm cele mai bune practici care protejează atât confidențialitatea persoanelor, cât și integritatea datelor utilizate pentru a lua decizii și a informa politica.
+Pentru a asigura securitatea și integritatea datelor, respectăm cele mai bune practici care protejează atât confidențialitatea persoanelor, cât și integritatea datelor utilizate pentru a lua decizii;
 
-**Criptarea datele sensibile**: toate datele sensibile, inclusiv informațiile personale, vor fi criptate în tranzit și în repaus. Acest lucru va împiedica accesul neautorizat la date și va asigura că datele nu pot fi ușor compromise.
+**Criptarea datele sensibile**: toate datele sensibile, inclusiv informațiile personale, vor fi criptate. Acest lucru va împiedica accesul neautorizat la date și va asigura că datele nu pot fi compromise ușor.
 
 **Autentificare și autorizare securizată**: implementarea unor  mecanisme de autentificare puternice, cum ar fi autentificarea cu mai mulți factori, pentru a securiza aplicația și pentru a ne asigura că numai utilizatorii autorizați au acces la date. În plus, **folosim autorizarea bazată pe roluri pentru a restricționa accesul la datele sensibile numai acelor utilizatori care au nevoie de el**.
 
@@ -526,7 +528,7 @@ Pentru a asigura securitatea și integritatea datelor, respectăm cele mai bune 
 
 **Efectuarea evaluărilor regulate de securitate**: evaluările regulate de securitate pot ajuta la identificarea potențialelor vulnerabilități din aplicație și infrastructură, permițându-vă să luați măsuri pentru a le remedia înainte ca acestea să poată fi exploatate de atacatori.
 
-**Instruirea angajaților cu privire la cele mai bune practici de securitate**: asigurați-vă că angajații și utilizatorii aplicației înțeleg importanța securității datelor și sunt instruiți despre cum să urmeze cele mai bune practici pentru păstrarea în siguranță a datelor.
+**Instruirea angajaților cu privire la cele mai bune practici de securitate**: ne asigurăm că angajații și utilizatorii aplicației înțeleg importanța securității datelor și sunt instruiți despre cum să urmeze cele mai bune practici pentru păstrarea în siguranță a datelor.
 
 **Cerințele legale și de reglementare**: constientizarea și respectarea cerințele legale și de reglementare relevante pentru protecția datelor, cum ar fi Regulamentul general privind protecția datelor (GDPR).
 
@@ -547,12 +549,10 @@ Pentru a asigura conformitatea cu GDPR, folosim procese de ștergere a datelor c
 
 **Schimbări climatice**: orașele sunt deosebit de vulnerabile la impactul schimbărilor climatice, cum ar fi creșterea nivelului mării, evenimente meteorologice extreme și căldură crescută.
 
-**Locuințe la prețuri accesibile**: orașele se confruntă cu o criza de locuințe la prețuri accesibile, ceea ce poate duce la lipsa de adăpost și la nesiguranța locativă.
+**Locuințe la prețuri accesibile**: orașele se confruntă cu o criza de locuințe la prețuri accesibile, fapt ce poate duce la lipsa de adăpost și la nesiguranța locativă.
 
-Skylines poate ajuta orașele să facă față acestor provocări, oferind informații despre diferite aspecte ale orașului, cum ar fi traficul, consumul de energie și alte servicii. Prin analiza datelor, aplicația poate identifica modele și tendințe, care pot fi folosite pentru a lua decizii bazate pe date pentru a îmbunătăți infrastructura și serviciile orașului. De exemplu, aplicația poate fi utilizată pentru a optimiza fluxul de trafic, a reduce consumul de energie și a îmbunătăți calitatea aerului. În plus, oferind date în timp real, Skylines poate ajuta oficialii orașului să răspundă rapid la orice probleme care apar, cum ar fi congestionarea traficului sau poluarea aerului.
+Skylines poate ajuta orașele să facă față acestor provocări, oferind informații despre diferite aspecte ale orașului, cum ar fi traficul, consumul de energie și alte servicii. Prin analiza datelor, aplicația poate identifica modele și tendințe, care pot fi folosite pentru a lua decizii bazate pe date in vederea îmbunătățiri infrastructurii și serviciilor orașului. De exemplu, aplicația poate fi utilizată pentru a optimiza fluxul de trafic, a reduce consumul de energie și a îmbunătăți calitatea aerului. În plus, oferind date în timp real, Skylines poate ajuta oficialii orașului să răspundă rapid la orice probleme care apar, cum ar fi congestionarea traficului sau poluarea aerului.
 
 Skylines poate ajuta, de asemenea, orașele să se adapteze la impactul schimbărilor climatice, oferind date despre evenimente meteorologice extreme și căldură crescută. Analizând aceste date, oficialii orașului pot lua decizii mai informate despre cum să-și protejeze cetățenii de efectele schimbărilor climatice.
-
-În general, Skylines este un instrument care poate ajuta orașele să abordeze provocările complexe cu care se confruntă în zilele noastre și să devină mai eficiente, durabile și mai viabile.
 
 În concluzie, Skylines este un instrument puternic pentru orașele care doresc să devină mai eficiente, durabile și mai viabile. Capacitatea sa de a colecta, analiza și vizualiza date poate ajuta oficialii orașului să ia decizii bazate pe date și să îmbunătățească infrastructura și serviciile orașului. În plus, poate îmbunătăți calitatea generală a vieții pentru cetățeni, oferind date și perspective în timp real care pot ajuta la rezolvarea oricăror probleme care apar.
