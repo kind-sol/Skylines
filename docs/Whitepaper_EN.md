@@ -60,9 +60,6 @@
 
 > Neural networks, which are a type of machine learning algorithm, can be used to help detect a variety of city incidents.
 
-## <definition_item>
-
-> <definition_description>
 
 # **WHY SMART CITY?**
 
